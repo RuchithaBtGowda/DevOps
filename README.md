@@ -1,2 +1,2 @@
 # DevOps
-This will contain my DevOps assignments and capstone projects.
+This will contain my DevOps assignments, case studies and capstone projects.
